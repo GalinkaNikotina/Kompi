@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Kompilator\Kompilator\bin\Debug\Kompilator.exe.config
+C:\Users\user\source\repos\Kompilator\Kompilator\bin\Debug\Kompilator.exe
+C:\Users\user\source\repos\Kompilator\Kompilator\bin\Debug\Kompilator.pdb
+C:\Users\user\source\repos\Kompilator\Kompilator\obj\Debug\Kompilator.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Kompilator\Kompilator\obj\Debug\Kompilator.Form1.resources
+C:\Users\user\source\repos\Kompilator\Kompilator\obj\Debug\Kompilator.Properties.Resources.resources
+C:\Users\user\source\repos\Kompilator\Kompilator\obj\Debug\Kompilator.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Kompilator\Kompilator\obj\Debug\Kompilator.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Kompilator\Kompilator\obj\Debug\Kompilator.exe
+C:\Users\user\source\repos\Kompilator\Kompilator\obj\Debug\Kompilator.pdb
